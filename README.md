@@ -18,7 +18,6 @@
 
 
 ## About me
-- - -
 - I'm a rookie! With a little over four years of programming experience
 - Studying a degree in Computer Science, I plan to pursue a postgraduate degree in UX Design
 - Working remotely with web and mobile development since 2019
@@ -28,7 +27,6 @@
 <br/> 
 
 ## Skills
-- - -
 <table>
 <tr>
 <td valign="top" width="33%">
@@ -154,7 +152,6 @@
 <br/> 
 
 ## Github Stats
----
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=kauanr&show_icons=true&theme=dracula&count_private=true&custom_title=Repositories%20Stats&line_height=20">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kauanr&layout=compact&theme=dracula"/>
@@ -164,7 +161,6 @@
 <br/> 
 
 ## Contacts
-- - -
 <div align="center">
     <a 
         href="https://www.linkedin.com/in/kauan-rocha-485441202/" 
