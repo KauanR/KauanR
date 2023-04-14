@@ -18,7 +18,6 @@
 
 
 ## Sobre mim
-- - -
 - Eu sou um novato! Tenho pouco mais de quatro anos de experiência em programação
 - Estou me graduando em Ciência da Computação, e planejo fazer pós-graduação em UX Design
 - Trabalhando remotamente com desenvolvimento web e mobile desde 2019
@@ -28,7 +27,6 @@
 <br/> 
 
 ## Habilidades
-- - -
 <table>
 <tr>
 <td valign="top" width="33%">
@@ -154,7 +152,6 @@
 <br/> 
 
 ## Estatísticas Github
----
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=kauanr&show_icons=true&theme=dracula&count_private=true&custom_title=Estatísticas+de+repositórito&line_height=20&locale=pt-br">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kauanr&layout=compact&theme=dracula&locale=pt-br"/>
@@ -165,7 +162,6 @@
 
 
 ## Contatos
-- - -
 <div align="center">
     <a 
         href="https://www.linkedin.com/in/kauan-rocha-485441202/" 
