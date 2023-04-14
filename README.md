@@ -156,13 +156,12 @@
 ## Github Stats
 ---
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=kauanr&show_icons=true&theme=dracula&count_private=true&custom_title=Repositories Stats&line_height=20">
+    <img src="https://github-readme-stats.vercel.app/api?username=kauanr&show_icons=true&theme=dracula&count_private=true&custom_title=Repositories%20Stats&line_height=20">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kauanr&layout=compact&theme=dracula"/>
 </div>  
 
 <br/> 
 <br/> 
-
 
 ## Contacts
 - - -
