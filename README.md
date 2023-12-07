@@ -19,7 +19,7 @@
 
 ## About me
 - I'm a rookie! With a little over four years of programming experience
-- Studying a degree in Computer Science, I plan to pursue a postgraduate degree in UX Design
+- Studying a degree in Computer Science, planning to pursue a postgraduate degree
 - Working remotely with web and mobile development since 2019
 - Always open to learn and try new things
 
