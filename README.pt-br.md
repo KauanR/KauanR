@@ -19,7 +19,7 @@
 
 ## Sobre mim
 - Eu sou um novato! Tenho pouco mais de quatro anos de experiência em programação
-- Estou me graduando em Ciência da Computação, e planejo fazer pós-graduação em UX Design
+- Estou me graduando em Ciência da Computação, planejando fazer uma pós graduação
 - Trabalhando remotamente com desenvolvimento web e mobile desde 2019
 - Sempre aberto para tentar e aprender coisas novas
 
