@@ -13,13 +13,13 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Ubuntu&weight=700&size=25&duration=2500&pause=500&color=DA6286&center=true&vCenter=true&multiline=true&width=600&height=120&lines=Desenvolvedor+Web+e+Mobile;Estudante+de+Ciência+da+Computação;Apaixonado+em+aprender+coisas+novas">
+  <img src="https://readme-typing-svg.demolab.com?font=Ubuntu&weight=700&size=25&duration=2500&pause=500&color=DA6286&center=true&vCenter=true&multiline=true&width=600&height=120&lines=Desenvolvedor+Web+e+Mobile;Bacharel+em+Ciência+da+Computação;Apaixonado+em+aprender+coisas+novas">
 </p>
 
 
 ## Sobre mim
 - Eu sou um novato! Tenho pouco mais de quatro anos de experiência em programação
-- Estou me graduando em Ciência da Computação, planejando fazer uma pós graduação
+- Possuo bacharel em ciência da computação, e estou planejando fazer uma pós graduação
 - Trabalhando remotamente com desenvolvimento web e mobile desde 2019
 - Sempre aberto para tentar e aprender coisas novas
 

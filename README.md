@@ -13,13 +13,13 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Ubuntu&weight=700&size=25&duration=2500&pause=500&color=DA6286&center=true&vCenter=true&multiline=true&width=600&height=120&lines=Web+and+Mobile+Developer;Computer+Science+Student;Passionate+into+learning+new+things">
+  <img src="https://readme-typing-svg.demolab.com?font=Ubuntu&weight=700&size=25&duration=2500&pause=500&color=DA6286&center=true&vCenter=true&multiline=true&width=600&height=120&lines=Web+and+Mobile+Developer;Bachelor+in+Computer+Science;Passionate+into+learning+new+things">
 </p>
 
 
 ## About me
 - I'm a rookie! With a little over four years of programming experience
-- Studying a degree in Computer Science, planning to pursue a postgraduate degree
+- I currently have a bachelor's degree in Computer Science, planning to pursue a postgraduate degree
 - Working remotely with web and mobile development since 2019
 - Always open to learn and try new things
 
