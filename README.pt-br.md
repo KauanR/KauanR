@@ -18,7 +18,7 @@
 
 
 ## Sobre mim
-- Eu sou um novato! Tenho pouco mais de quatro anos de experiência em programação
+- Tenho pouco mais de seis anos de experiência em programação profissional
 - Possuo bacharel em ciência da computação, e estou planejando fazer uma pós graduação
 - Trabalhando remotamente com desenvolvimento web e mobile desde 2019
 - Sempre aberto para tentar e aprender coisas novas
