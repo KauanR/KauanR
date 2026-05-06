@@ -18,7 +18,7 @@
 
 
 ## About me
-- I'm a rookie! With a little over four years of programming experience
+- I have a little over six years of professional programming experience
 - I currently have a bachelor's degree in Computer Science, planning to pursue a postgraduate degree
 - Working remotely with web and mobile development since 2019
 - Always open to learn and try new things
